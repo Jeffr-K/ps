@@ -1,0 +1,10 @@
+[package]
+name = "ps"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "dale"
+path = "dale/src/main.rs"
+
+[dependencies]
